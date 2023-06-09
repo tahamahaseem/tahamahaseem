@@ -8,10 +8,20 @@ My name is Tahama Haseem, and I am currently in my fourth year of Computer Engin
 
 <div align="center" style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api?username=tahamahaseem&show_icons=true&theme=dark#gh-dark-mode-only" alt="GitHub Stats" style="margin-right: 20px;" />
-  <p></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahamahaseem&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages" />
 </div>
 
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 
 <p>
