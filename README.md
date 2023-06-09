@@ -9,7 +9,6 @@ My name is Tahama Haseem, and I am currently in my fourth year of Computer Engin
 <div align="center">
   <div style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=tahamahaseem&show_icons=true&theme=dark#gh-dark-mode-only" alt="GitHub Stats" />
-    <div style="width: 20px;"></div> <!-- Add a width of 20px for spacing -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahamahaseem&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages" />
   </div>
 </div>
