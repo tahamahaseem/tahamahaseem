@@ -7,7 +7,7 @@ My name is Tahama Haseem, and I am currently in my fourth year of Computer Engin
 ## My Skills
 
 <div align="center">
-  <div style="display: flex; justify-content: center;">
+  <div style="display: flex; justify-content: center; gap: 200px;">
     <img src="https://github-readme-stats.vercel.app/api?username=tahamahaseem&show_icons=true&theme=dark#gh-dark-mode-only" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahamahaseem&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages" />
   </div>
