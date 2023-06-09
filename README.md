@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Tahama Haseem, and I am currently in my fourth year of Computer Engineering at Western University! I have a passion for skateboarding, hitting the gym, creating digital graphic art, playing musical instruments, and most importantly, coding!
+My name is Tahama Haseem, and I am currently in my fourth year of Computer Engineering at Western University! I have a passion for skateboarding, hitting the gym, creating digital graphic art, videography, playing musical instruments, and most importantly, coding!
 
 ## My Skills
 
