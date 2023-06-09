@@ -17,7 +17,7 @@ My name is Tahama Haseem, and I am currently in my fourth year of Computer Engin
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="Arduino" src="https://img.shields.io/badge/arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" />
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visl%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
 </p>
 
 ## My Hobbies
