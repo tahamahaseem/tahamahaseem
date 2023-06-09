@@ -6,7 +6,7 @@
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
   <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" />
-  <img alt="Arduino" src="https://img.shields.io/badge/arduino-000000?logo=unity&logoColor=white&style=for-the-badge" />
+  <img alt="Arduino" src="https://img.shields.io/badge/arduino-000000?logo=arduino&logoColor=white&style=for-the-badge" />
 </p>
 
 <a href="https://www.instagram.com/aleks.popovic/">
