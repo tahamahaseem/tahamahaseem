@@ -27,7 +27,7 @@ My name is Tahama Haseem, and I am currently in my fourth year of Computer Engin
   <img alt="Ableton Live" src="https://img.shields.io/badge/Ableton%20Live-000000.svg?style=for-the-badge&logo=Ableton-Live&logoColor=white"/>
   <img alt="Unity" src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black" />
   <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
-  <img alt="Video Games" src="https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white" />
+  <img alt="Video Games" src="https://img.shields.io/badge/Video%20Games-000000.svg?style=for-the-badge&logo=Steam&logoColor=white" />
 </p>
 
 
