@@ -6,6 +6,8 @@ My name is Tahama Haseem, and I am currently in my fourth year of Computer Engin
 
 ## My Skills
 
+<p>https://github.com/anuraghazra/github-readme-stats</p>
+
 <p>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
