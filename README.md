@@ -20,6 +20,8 @@ My name is Tahama Haseem, and I am currently in my fourth year of Computer Engin
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahamahaseem&layout=compact)
+
 ## My Hobbies
 
 <p>
