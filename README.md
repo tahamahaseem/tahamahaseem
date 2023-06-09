@@ -23,7 +23,7 @@ My name is Tahama Haseem, and I am currently in my fourth year of Computer Engin
 ## My Hobbies
 
 <p>
-  <img alt="Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%001e36.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
   <img alt="Ableton Live" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 </p>
 
