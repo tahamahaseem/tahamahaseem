@@ -12,15 +12,15 @@
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
-<a href="https://www.instagram.com/aleks.popovic/">
-  <img
-    alt="Instagram"
-    src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
-  />
-</a>
-<a href="https://www.linkedin.com/in/alekspopovic/">
+<a href="https://www.linkedin.com/in/tahama-haseem-a5b239192/">
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
+<a href="https://www.instagram.com/tihamahhaseem/">
+  <img
+    alt="Instagram"
+    src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
   />
 </a>
