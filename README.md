@@ -8,7 +8,7 @@
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
   <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" />
   <img alt="Arduino" src="https://img.shields.io/badge/arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" />
-  <img alt="C" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
