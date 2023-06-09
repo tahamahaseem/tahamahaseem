@@ -24,7 +24,7 @@ My name is Tahama Haseem, and I am currently in my fourth year of Computer Engin
 
 <p>
   <img alt="Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-  <img alt="Ableton Live" src="https://a11ybadges.com/badge?logo=abletonlive" />
+  <img alt="Ableton Live" src="https://img.shields.io/badge/Ableton%20Live-000000.svg?style=for-the-badge&logo=Ableton-Live&logoColor=white"/>
   <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
 </p>
 
