@@ -6,7 +6,9 @@ My name is Tahama Haseem, and I am currently in my fourth year of Computer Engin
 
 ## My Skills
 
-<p>{https://github-readme-stats.vercel.app/api/top-langs/?username=tahamahaseem&layout=compact}</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahamahaseem&layout=compact" alt="Top Languages" />
+</div>
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
