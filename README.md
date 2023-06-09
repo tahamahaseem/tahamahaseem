@@ -1,4 +1,8 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahamahaseem&layout=compact)
+# Hi There! Welcome to my Git
+
+## About Me
+
+My name is Tahama Haseem, and I am currently in my fourth year of Computer Engineering at Western University! I have a passion for skateboarding, hitting the gym, creating digital graphic art, playing musical instruments, and most importantly, coding!
 
 ## My Skills
 
