@@ -4,10 +4,6 @@
 
 My name is Tahama Haseem, and I am currently in my fourth year of Computer Engineering at Western University! I have a passion for skateboarding, hitting the gym, creating digital graphic art, videography, playing musical instruments, and most importantly, coding!
 
-## My Resume
-
-<embed src="https://github.com/tahamahaseem/tahamahaseem/files/11712126/Tahama.Haseem.Resume.pdf" width="600" height="800" type="application/pdf">
-
 ## Ongoing Exploration
 
 Currently fiddling with <img align="center" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
