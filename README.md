@@ -16,6 +16,7 @@ My name is Tahama Haseem, and I am currently in my fourth year of Computer Engin
 <p>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+<img alt="React Native" src="https://img.shields.io/badge/React%20Native-09D3AC.svg?style=for-the-badge&logo=Create-React-App&logoColor=white" />
 <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
