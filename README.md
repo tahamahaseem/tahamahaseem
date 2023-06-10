@@ -31,6 +31,7 @@ Currently fiddling with <img align="center" src="https://img.shields.io/badge/No
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" />
   <img alt="Arduino" src="https://img.shields.io/badge/arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" />
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
 </p>
 
