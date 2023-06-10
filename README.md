@@ -11,10 +11,6 @@ Currently fiddling with <img align="center" src="https://img.shields.io/badge/No
 
 ## My Skills
 
-<div align="center" style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahamahaseem&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages" />
-  <p></p>
-</div>
 
 
 
