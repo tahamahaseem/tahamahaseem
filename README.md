@@ -39,13 +39,9 @@ My name is Tahama Haseem, and I am currently in my fourth year of Computer Engin
 
 
 ## Contact Me
-
-<a href="tahama.bin.haseem@gmail.com"
-  <img
-    alt="Gmail"
-    src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"
-  />
-</a>
+ <a href="mailto:tahama.bin.haseem@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
+  </a>
 <a href="https://www.linkedin.com/in/tahama-haseem-a5b239192/">
   <img
     alt="Linkedin"
