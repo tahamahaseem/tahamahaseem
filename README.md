@@ -37,7 +37,7 @@ Currently fiddling with <img align="center" src="https://img.shields.io/badge/No
 
 ## My Hobbies
 
-<p>
+<p  align="center">
   <img alt="Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
   <img alt="Ableton Live" src="https://img.shields.io/badge/Ableton%20Live-000000.svg?style=for-the-badge&logo=Ableton-Live&logoColor=white"/>
   <img alt="Unity" src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black" />
@@ -47,7 +47,8 @@ Currently fiddling with <img align="center" src="https://img.shields.io/badge/No
 
 
 ## Contact Me
- <a href="mailto:tahama.bin.haseem@gmail.com">
+<p  align="center" >
+ <a  href="mailto:tahama.bin.haseem@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
   </a>
 <a href="https://www.linkedin.com/in/tahama-haseem-a5b239192/">
@@ -62,3 +63,4 @@ Currently fiddling with <img align="center" src="https://img.shields.io/badge/No
     src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
   />
 </a>
+  </p>
