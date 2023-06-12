@@ -16,7 +16,7 @@ Currently fiddling with <img align="center" src="https://img.shields.io/badge/No
   <p></p>
 </div>
 
-<p>
+<p align="center">
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 <img alt="React Native" src="https://img.shields.io/badge/React%20Native-09D3AC.svg?style=for-the-badge&logo=Create-React-App&logoColor=white" />
