@@ -9,7 +9,7 @@ My name is Tahama Haseem, and I am currently in my fourth year of Computer Engin
 I am always eager to expand my knowledge and stay updated with emerging technologies. Currently, to enhance my development capabilities further I am delving into the realms of:
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white" />
 </p>
 
